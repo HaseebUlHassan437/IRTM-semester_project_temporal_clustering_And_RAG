@@ -2,7 +2,7 @@
 
 > **AI-Powered Email Analysis System with Gemini Integration**  
 > Authors: Haseeb Ul Hassan (MSCS25003)
-> Course: Information Retrieval
+> Course: Information Retrieval 
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Dash](https://img.shields.io/badge/Dash-2.14.2-blue.svg)](https://dash.plotly.com/)
@@ -617,14 +617,6 @@ This is an academic project, but suggestions are welcome!
 4. **Cluster Stability**: K-means can produce different results on re-runs
    - **Solution**: Set `random_state=42` for reproducibility
 
-### Browser Compatibility
-
-Tested on:
-- ✅ Chrome 120+
-- ✅ Firefox 121+
-- ✅ Edge 120+
-- ⚠️ Safari 17+ (some CSS issues)
-
 ---
 
 ## 🔮 Future Enhancements
@@ -677,16 +669,14 @@ Tested on:
 - Implementation Lead
 - Dashboard Development
 - Gemini AI Integration
-- GitHub: [@HaseebUlHassan437](https://github.com/HaseebUlHassan437)
-
-**Abdul Mateen (MSCS25001)**  
 - Data Processing Lead
 - Preprocessing Module
 - Clustering Implementation
+- GitHub: [@HaseebUlHassan437](https://github.com/HaseebUlHassan437)
 
 **Course:** Information Retrieval  
-**Institution:** [Your University Name]  
-**Semester:** Winter 2024-2025
+**Institution:** [ITU Lahore]  
+**Semester:** MSCS 1st semester
 
 ---
 
@@ -697,8 +687,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2024 Haseeb Ul Hassan & Abdul Mateen
-
+Copyright (c) 2024 Haseeb Ul Hassan 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -725,7 +714,7 @@ SOFTWARE.
 - **Enron Dataset**: Carnegie Mellon University & Kaggle
 - **Google AI**: Gemini API access
 - **Open Source Community**: scikit-learn, NLTK, Plotly, Dash contributors
-- **Course Instructor**: [Instructor Name] for guidance and feedback
+- **Course Instructor**: [DR. Ahmad Mustafa] for guidance and feedback
 
 ---
 
@@ -733,7 +722,7 @@ SOFTWARE.
 
 ### Questions or Issues?
 
-- **Email**: [your.email@example.com]
+- **Email**: [haseebulhassan1172003@gmail.com]
 - **GitHub Issues**: [Create an issue](https://github.com/HaseebUlHassan437/temporal_document_clustering/issues)
 - **Discussion**: [Start a discussion](https://github.com/HaseebUlHassan437/temporal_document_clustering/discussions)
 
